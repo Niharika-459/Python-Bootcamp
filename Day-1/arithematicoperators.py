@@ -1,37 +1,37 @@
-#a=int(input())
-#b=int(input())
-#print(f"{a+b}\n {a-b}\n {a*b}\n {a/b}\n {a**b}\n {a//b}\n")
+a=int(input())
+b=int(input())
+print(f"{a+b}\n {a-b}\n {a*b}\n {a/b}\n {a**b}\n {a//b}\n")
 #pow-->import math module-->**-->pow(a)
 #logical operators-->&&(and),or(||)
-#age=int(input())
-#if age>=18 and age<24:
-  #  print("only two wheeler")
-#elif(age>=24 and age<45):
- #   print("both two and four wheeler")
-#else:
-#    print("two wheeler,four wheeler and six")
+age=int(input())
+if age>=18 and age<24:
+    print("only two wheeler")
+elif(age>=24 and age<45):
+    print("both two and four wheeler")
+else:
+    print("two wheeler,four wheeler and six")
 #print("//*****************//")
-#m=700
-#apples=int(input())
-#bananas=int(input())
-#oranges=int(input())
-#sum=apples*15+bananas*12*4+oranges*5
-#print(sum)
-#if sum<=m:
-  #  print("not been cheated")
-#else:
-#    print("been cheated")
+m=700
+apples=int(input())
+bananas=int(input())
+oranges=int(input())
+sum=apples*15+bananas*12*4+oranges*5
+print(sum)
+if sum<=m:
+    print("not been cheated")
+else:
+    print("been cheated")
 #print("//*********//")
 
-#a=int(input())
-#if(a>0 and a%2==0):
-#    print("positive and even")
-#elif(a>0 and a%2!=0):
-#    print("positive and odd")
-#elif(a<0 and a%2==0):
-#    print("negative and even")
-#else:
-#    print("negative and odd")
+a=int(input())
+if(a>0 and a%2==0):
+    print("positive and even")
+elif(a>0 and a%2!=0):
+    print("positive and odd")
+elif(a<0 and a%2==0):
+    print("negative and even")
+else:
+    print("negative and odd")
 
 
 
