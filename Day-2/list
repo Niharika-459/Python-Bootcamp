@@ -1,0 +1,7 @@
+aggregate functions-->sum,min,avg,
+list-->ordered
+pop-->index specified,default-->last element is popped
+range-->index values
+i in-->elements
+   input
+   even count,odd count variables

@@ -1,0 +1,3 @@
+Python-->programming,interpreted,high level,object oriented
+f string-->formatted string-->multi datatypes in single
+mr.Z 
