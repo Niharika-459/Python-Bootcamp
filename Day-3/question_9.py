@@ -8,7 +8,7 @@
 #n=4
 #input:70 54 36 72
 #output:error
-'''k=int(input())
+k=int(input())
 n=int(input())
 li=list(map(int,input().split()))
 s=0
@@ -20,7 +20,7 @@ if(len(li)<=k+n):
 else:
     for i in range(len(li)):
       print(li[s])#print(li[5])
-      break'''
+      break
 #cyclic printing#
 #print the element in a particular index
 #k=8
