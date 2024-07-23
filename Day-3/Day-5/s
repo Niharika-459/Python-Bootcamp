@@ -1,4 +1,0 @@
-Strings
--->immutable
-isLower,isUpper,isDigit,isNumeric,isAlpha,isalnum
--->tolower,toupper,title case,swap case
