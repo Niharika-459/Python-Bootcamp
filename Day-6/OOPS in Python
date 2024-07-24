@@ -1,0 +1,22 @@
+object-->instance of class
+class-->blue print of objects
+constructors-->creates memory for the variables
+class variable-->declared inside class instance variable-->declared inside method
+Data abstraction-->hides the unecessary information,not required to the user -->Top level
+abstraction is acheived by access specifier,abc module and abstract method
+Encapsulation-->binding into single unit
+Polymorphism-->behaving in different types based on situation
+Inheritance-deriving sub class from parent class
+Access specifiers-giving access or permission to access the data
+1.Private-->in java default--within the class
+2.Public-->accessed by all
+3.Protected-->limited access
+In python polymorphism can be acheivedby method overloading(compile tile)
+,method overriding(runtime),operator overloading
+self-->takes care of passing of the inputs and for iterating the inputs we use self
+variable length argument-->takes care for the changing length of variable
+Exception handling-->try,catch,throw
+1.TRY-the statements which will raise an exception are written
+2.FINALLY-execute at any cost--java
+3.THROW,THROWS-exceptions
+
